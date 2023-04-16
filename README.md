@@ -1,9 +1,8 @@
-![Programação-Projeto de portfólio](https://user-images.githubusercontent.com/129513996/232313859-67dd41cd-e5b0-4783-afd2-ab2416dcd906.png)
+![Programação-HTML e CSS](https://user-images.githubusercontent.com/129513996/232314742-7b92cdc5-68cd-4fe2-aa70-c4d06225afee.png)
 
 # Projeto de portfólio
 Meu primeiro repositório desenvolvido utilizando HTML e CSS.
 
-## hammer: Funcionalidades do projeto
+## :heavy_check_mark: Técnicas e tecnologias utilizadas
 
-## heavy_check_mark: Técnicas e tecnologias utilizadas
 
