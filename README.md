@@ -9,10 +9,10 @@ Meu primeiro repositório desenvolvido utilizando HTML e CSS.
 - **Flex-box**
 
 ## :file_folder: Acesso ao projeto
-Neste repositório você tem acesso a todo o material produzido no curso.
+Você pode [acessar o código fonte do projeto inicial](https://github.com/furtado9/portfolio) ou [baixá-lo](https://github.com/furtado9/portfolio/archive/refs/heads/main.zip) neste repositório.
 
 ## :hammer_and_wrench: Abrir e rodar o projeto
-Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
+Para acessar o projeto basta abrir a página web: https://portfolio-flame-nine-83.vercel.app/ no navegador.
 
 ## :books: Mais informações sobre os cursos
 Os cursos de **HTML** e **CSS** feitos fazem parte da formação **A partir do zero: iniciante em programação**
